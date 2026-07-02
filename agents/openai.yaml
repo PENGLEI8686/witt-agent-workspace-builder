@@ -1,0 +1,5 @@
+interface:
+  display_name: "Witt Agent Workspace Builder / Witt-AgentOS搭建器"
+  short_description: "Build a local AgentOS workspace from existing project files: AGENTS.md, context, skills, memory, and output structure."
+  default_prompt: "Use $witt-agent-workspace-builder to scan my project folder and build a reusable AI agent workspace with AGENTS.md, context files, skills, memory templates, and organized outputs. 请先扫描目录并让我确认业务画像。"
+

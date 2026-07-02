@@ -1,0 +1,26 @@
+{
+  "name": "witt-agent-workspace-builder",
+  "version": "0.1.0",
+  "description": "Build a local AgentOS workspace from project files: AGENTS.md, context, skills, memory, and output structure.",
+  "license": "MIT",
+  "bin": {
+    "witt-agent-workspace-builder": "bin/install.js"
+  },
+  "files": [
+    "SKILL.md",
+    "references/",
+    "agents/",
+    "bin/",
+    "README.md",
+    "LICENSE"
+  ],
+  "keywords": [
+    "codex-skill",
+    "skill",
+    "agentos",
+    "agents-md",
+    "context-engineering",
+    "ai-workspace"
+  ]
+}
+
